@@ -73,12 +73,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors and data providers
-- Special thanks to the meteorological and astronomical data sources
+- sdrdray
 
 ---
-⭐ Star this repository if you find it useful! 
